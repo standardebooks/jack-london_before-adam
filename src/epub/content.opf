@@ -40,9 +40,9 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A man experiences the memories of a long dead ancestor during his dreams.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In Before Adam, an unnamed narrator describes the life of one of his ancestors, who lived during the transition from ape to human being.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;Before Adam&lt;/i&gt;, an unnamed narrator describes the life of one of his ancestors, who lived during the transition from ape to human being.&lt;/p&gt;
 			&lt;p&gt;Written and published in the early 20th Century, the novel presents accepted and common ideas for the period, such as scientific racism and racial memory, and has elements of eugenic thought, making the work outdated both scientifically and socially.&lt;/p&gt;
-			&lt;p&gt;Today, the novel is obscured by &lt;a href="https://standardebooks.org/ebooks/jack-london"&gt;&lt;i&gt;Jack London’s&lt;/i&gt;&lt;/a&gt; more successful works, like &lt;a href="https://standardebooks.org/ebooks/jack-london/the-call-of-the-wild"&gt;&lt;i&gt;Call of the Wild&lt;/i&gt;&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/jack-london/martin-eden"&gt;&lt;i&gt;Martin Eden&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;Today, the novel is obscured by &lt;a href="https://standardebooks.org/ebooks/jack-london"&gt;Jack London’s&lt;/a&gt; more successful works, like &lt;a href="https://standardebooks.org/ebooks/jack-london/the-call-of-the-wild"&gt;&lt;i&gt;Call of the Wild&lt;/i&gt;&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/jack-london/martin-eden"&gt;&lt;i&gt;Martin Eden&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/310</dc:source>

@@ -49,7 +49,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/310</dc:source>
 		<dc:source>https://archive.org/details/beforeadam02londgoog</dc:source>
-		<meta property="se:word-count">39185</meta>
+		<meta property="se:word-count">39184</meta>
 		<meta property="se:reading-ease.flesch">80.82</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Before_Adam</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jack-london_before-adam</meta>

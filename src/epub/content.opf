@@ -41,7 +41,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008102340</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A man experiences the memories of a long dead ancestor through his dreams.</dc:abstract>
+		<meta property="schema:abstract">A man experiences the memories of a long dead ancestor through his dreams.</meta>
 		<dc:description>
 			&lt;p&gt;In &lt;i&gt;Before Adam&lt;/i&gt;, an unnamed narrator describes the life of one of his ancestors, who lived during the transition from ape to human being.&lt;/p&gt;
 			&lt;p&gt;Written and published in the early 20th Century, the novel presents ideas that were common for the period, like scientific racism and racial memory, and has elements of eugenic thought. This makes the work outdated both scientifically and socially.&lt;/p&gt;

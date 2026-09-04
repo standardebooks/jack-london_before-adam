@@ -32,8 +32,8 @@
 		<dc:title id="title">Before Adam</dc:title>
 		<meta property="file-as" refines="#title">Before Adam</meta>
 		<dc:subject id="subject-1">Fantasy fiction</dc:subject>
-		<dc:subject id="subject-2">Prehistoric peoples -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Dreams -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Prehistoric peoples--Fiction</dc:subject>
+		<dc:subject id="subject-3">Dreams--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047114</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
